@@ -1,0 +1,27 @@
+body {
+  background-color: #FFF5E4;
+}
+hr {
+  border-style:none;
+  border-top-style: dotted;
+  border-color:grey;
+  border-width:4px;
+  width:10%;
+}
+h3{
+  color:#395B64;
+}
+h4{;
+  color:#395B64;
+}
+h1{
+  color:#5837D0;
+}
+.kukkidon{
+  background-color:#FFF5E4;
+
+}
+img:hover{
+  background-color:white;
+  border-radius:60px;
+}
